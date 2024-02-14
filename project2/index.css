@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+#image1{
+    height: 50px;
+    width: 80px;
+    border-radius: 20%;
+    padding-left: 10px;
+}
+#myVideo {
+        position: absolute;
+        right: 0;
+        bottom: 0;  
+        width: 100%;
+        height: auto;
+        z-index: -10;
+
+
+}
+#overlay{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 150px;
+    font-size: 100%;
+   
+}
+#type{
+    font-size: 70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#hero{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3)) ;
+    position: relative;
+    padding: 0 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#nav{
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+
+}
+#main{
+    background-color: rgb(6, 5, 5);
+}
+#list{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    gap: 20px;
+}
+#list2{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    gap: 300px;
+    
+}
+.hr{
+    border-top: 2px solid white;
+}
+#div2{
+    display: flex;
+    gap: 870px;
+    color: white;
+}
+#head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#i1{
+    height: 250px;
+}
+#i2{
+    height: 250px;
+}
+#i3{
+    height: 250px;
+}
+#i4{
+    height: 250px;
+}
+#images{
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+}
+#list4{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 90px;
+}
+#div4{
+    color: white;
+
+}
+#hr2{
+    border-top: 2px solid white;
+}
+#div5{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#gpt{
+    height: 80%; 
+    width: 100%;
+    padding-top: 80px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+#hr3{
+    border-top: 2px solid white;
+}
+#div6{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+#main2{
+   
+   background-color: rgb(6, 5, 5);
+   
+ 
+}
+#hr6{
+    border-top: 2px solid white;
+}
+
+#images2{
+    background-color: rgb(6, 5, 5);
+    display: flex;
+    align-items:start;
+    /* justify-content: space-evenly; */
+    gap: 80px;
+    
+    
+   
+}
+#main3{
+    background-color: black;
+}
+#i6{
+    height: 250px;
+}
+#i7{
+    height: 250px;
+}
+#i8{
+    height: 250px;
+}
+#i5{
+    height: 250px;
+}
+/* #div7{
+    color: white;
+    display: flex;
+} */
+#list6{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 90px;
+}
+#list7{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    /* padding-right: 90px; */
+}
+#login{
+    width: 70px;
+    border-color: rgb(44, 205, 44);
+    columns: rgb(44, 205, 44);
+    
+}
+.d-flex{
+    display: flex;
+    gap: 50px;
+}
+#nav{
+    mix-blend-mode: darken;
+    color: white;
+}
+.navbar-brand{
+    color:black
+}
+.nav-link active{
+    color: black;
+}
+.nav-link{
+    color: black;
+}
+.nav-link dropdown-toggle{
+    color: black;
+}
+.nav-link disabled{
+    color: black;
+}
+
